@@ -7,9 +7,9 @@
 
 > war
 
-[unixhot] (http://www.unixhot.com)
+[unixhot](http://www.unixhot.com)
 
-! [Oldboy] (http://pic15.shangpin.com/shangpin/images/logo/logo_v101.png)
+! [Oldboy](http://pic15.shangpin.com/shangpin/images/logo/logo_v101.png)
 
 	while true:
 	    do echo hehe;
